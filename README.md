@@ -7,8 +7,6 @@ Welcome to my personal code playground! This repository hosts a variety of proje
 ### 🖥️ Web Development
 
 - `front-end` – React, HTML/CSS, UI experiments
-- `back-end` – APIs, Node.js, Flask, Express
-- `full-stack` – Complete apps with client + server
 
 ## 🚀 Why This Repo?
 
