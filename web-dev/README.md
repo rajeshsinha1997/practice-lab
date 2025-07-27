@@ -5,8 +5,6 @@ This section of the Practice Lab contains all my web development projects — fr
 ## 📁 Structure
 
 - `front-end/` – Projects focused on user interfaces and client-side technologies (React, HTML/CSS, JavaScript, etc.)
-- `back-end/` – Server-side applications and APIs (Node.js, Express, Flask, etc.)
-- `full-stack/` – Complete apps with both frontend and backend components integrated
 
 ## 🎯 Goals
 
