@@ -46,7 +46,7 @@ nav ul li {
   margin: 10px 15px;
 }
 
-/* styles for the links under the list inside the nav */
+/* styles for the links within the list items inside the nav */
 nav ul li a {
   text-decoration: none;
 
@@ -158,7 +158,7 @@ nav ul li a {
   animation-delay: 0.5s;
 }
 
-/* delay animation for 1 seconds */
+/* delay animation for 1 second */
 .delay-animation-1 {
   animation-delay: 1s;
 }
