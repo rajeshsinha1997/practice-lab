@@ -123,6 +123,7 @@ nav ul li a {
 /* styles for the feature image inside the hero section */
 .feature-image {
   max-width: 30vw;
+  min-width: 300px;
 
   position: absolute;
   bottom: 0;
