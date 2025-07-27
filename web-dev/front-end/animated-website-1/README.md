@@ -2,6 +2,10 @@
 
 A fully animated, modern landing page built with semantic HTML5 and modular CSS. This project focuses on layout structure, UI polish, and entrance animations that enhance user experience without JavaScript.
 
+## Live Demo
+
+![UI Demo](./demo/animated-project-1-demo.gif)
+
 ## 🧠 What I Practiced
 
 - Writing semantic and accessible HTML structure
