@@ -5,7 +5,7 @@
 
   box-sizing: border-box;
 
-  font-family: "Nunito Sans", Georgia, Arial, sans-serif;
+  font-family: "Nunito Sans", Arial, sans-serif;
 }
 
 /* styles for the hero section */
@@ -102,7 +102,7 @@ nav ul li a {
 
 /* styles for the content heading inside the hero section */
 .content h1 {
-  font-size: 70px;
+  font-size: 4.375rem;
   color: rgb(34, 34, 34);
 }
 
@@ -122,7 +122,7 @@ nav ul li a {
 
 /* styles for the feature image inside the hero section */
 .feature-image {
-  width: 530px;
+  max-width: 30vw;
 
   position: absolute;
   bottom: 0;
