@@ -4,7 +4,7 @@ A fully animated, modern landing page built with semantic HTML5 and modular CSS.
 
 ## Live Demo
 
-![UI Demo](./demo/animated-project-1-demo.gif)
+![UI Demo](./demo/animated-landing-page-1-demo.gif)
 
 ## 🧠 What I Practiced
 
