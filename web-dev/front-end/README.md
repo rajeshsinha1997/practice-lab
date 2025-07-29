@@ -11,6 +11,9 @@ This folder contains all my front-end development projects — built to sharpen 
 - Reusable utility classes for animation timing, delays, and fill modes
 - Consistent theming with Google Fonts and design tokens
 - Button styling with gradients, hover/focus effects, and interactive feedback
+- Visual layout techniques using floats and `position: absolute`
+- Designing static interfaces with pixel-perfect alignment
+- Creating interactive UI patterns purely with HTML and CSS (no JS)
 
 ## 🧪 Learning Goals
 
@@ -19,6 +22,9 @@ This folder contains all my front-end development projects — built to sharpen 
 - Improve mastery of layout and positioning
 - Explore transitions, micro-interactions, and page load animations
 - Develop reusable design patterns and scalable CSS structure
+- Gain confidence in using floats, absolute positioning, and z-index stacking when Flexbox/Grid aren't suitable
+- Push visual polish by combining gradients, icons, and animations for brand-like interfaces
+- Understand the limits of pure CSS and when to introduce JavaScript for richer interactions
 
 # 📝 Notes
 
