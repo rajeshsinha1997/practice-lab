@@ -48,6 +48,12 @@
   background-clip: content-box, border-box;
 }
 
+.btn-sign-up:hover {
+  box-shadow: 0 0 10px 3px rgba(25, 215, 248, 0.7);
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+}
+
 .btn-sign-up:focus {
   outline: 2px dashed rgb(25, 218, 250);
   outline-offset: 4px;
