@@ -12,6 +12,10 @@ This section of the Practice Lab contains all my web development projects — fr
 - Build real-world components and app layouts
 - Practice API design, authentication, and deployment
 - Sharpen frontend + backend integration skills
+- Strengthen HTML/CSS fundamentals with real-world layouts
+- Apply UI/UX principles with accessibility and polish in mind
+- Create interactive and animated user experiences using only HTML and CSS
+- Learn when to rely on core web tech vs. JavaScript-based enhancements
 
 ## 📝 Notes
 
