@@ -1,0 +1,27 @@
+/* styles for the top navbar */
+.navbar {
+  display: flex;
+}
+
+/* styles for the right side navbar container */
+.right-nav-items {
+  margin-left: auto;
+}
+
+/* styles for all nav items lists */
+.nav-items-list {
+  display: flex;
+  align-items: center;
+}
+
+/* styles for list items inside nav items */
+.nav-items-list li {
+  display: block;
+  list-style-type: none;
+}
+
+/* styles for images used as icons */
+.icon-image {
+  height: 24px;
+  width: 24px;
+}
