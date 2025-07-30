@@ -1,5 +1,8 @@
 /* styles for the top navbar */
 .navbar {
+  margin-top: 1em;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
   display: flex;
 }
 
@@ -11,6 +14,7 @@
 /* styles for all nav items lists */
 .nav-items-list {
   display: flex;
+  gap: 1.2em;
   align-items: center;
 }
 
@@ -20,8 +24,14 @@
   list-style-type: none;
 }
 
+.nav-items-list li a {
+  text-decoration: none;
+  font-size: 0.8em;
+  color: #333;
+}
+
 /* styles for images used as icons */
 .icon-image {
-  height: 24px;
-  width: 24px;
+  width: 1.7em;
+  aspect-ratio: 1/1;
 }
