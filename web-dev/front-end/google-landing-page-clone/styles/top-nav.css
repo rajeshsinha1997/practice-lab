@@ -1,8 +1,6 @@
 /* styles for the top navbar */
 .navbar {
-  margin-top: 1em;
-  margin-left: 1.2em;
-  margin-right: 1.2em;
+  margin: 1em 1.2em 0;
   display: flex;
 }
 
@@ -20,18 +18,26 @@
 
 /* styles for list items inside nav items */
 .nav-items-list li {
-  display: block;
+  display: inline-block;
   list-style-type: none;
 }
 
+/* styles for links as list item under nav items */
 .nav-items-list li a {
   text-decoration: none;
-  font-size: 0.8em;
+  font-size: 0.9em;
   color: #333;
+}
+
+/* styles for links as list item under nav items present on the right side */
+.right-nav-items .nav-items-list li a {
+  font-size: 0.85em;
 }
 
 /* styles for images used as icons */
 .icon-image {
-  width: 1.7em;
+  width: 1.75em;
   aspect-ratio: 1/1;
+  margin-left: 0.4em;
+  margin-top: 0.3em;
 }
