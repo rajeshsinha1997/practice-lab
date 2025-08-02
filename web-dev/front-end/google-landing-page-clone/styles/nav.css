@@ -1,0 +1,72 @@
+/* styles for the header element */
+header {
+  height: 3rem;
+  width: 100%;
+}
+
+/* styles for the navbar */
+.navbar {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  height: 100%;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: rgb(31, 31, 31);
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.075rem;
+  cursor: pointer;
+}
+
+/* styles for the elements present on the left side of the navbar */
+.nav-left {
+  grid-column: 1;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.nav-left a {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.lnk-about {
+  margin: 1rem 1.25rem 0 1.15rem;
+}
+
+.lnk-store {
+  margin-top: 1rem;
+}
+
+/* styles for the elements present on the right side of the navbar */
+.nav-right {
+  grid-column: 3;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+}
+
+.right-nav-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.right-nav-links a {
+  font-size: 0.8rem;
+  margin-top: 0.85rem;
+}
+
+.right-nav-links a:hover {
+  text-underline-offset: 0;
+}
+
+.lnk-gmail {
+  margin-right: 1rem;
+}
