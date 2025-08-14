@@ -133,14 +133,20 @@ header {
   height: 1rem;
 }
 
-/* styles for the profile section */
-.profile {
-  border: 0.1rem solid red;
+/* styles for the container section of the profile image */
+.profile-img-container {
+  width: 2.6rem;
+  height: 2.6rem;
+  border: 2px solid red;
   border-radius: 50%;
+  margin-top: 0.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* styles for the profile image */
 .img-profile {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2.1rem;
+  height: 2.1rem;
 }
